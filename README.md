@@ -1,7 +1,7 @@
 ### Eu sou EliseuZeu
 
 - 🔭 Eu ainda não trabalho com fullstack, mas pretendo 
-- 🌱 Estudando Java, JS, Bootstrap, SpringBoot, HTML, CSS e ReactJS
+- 🌱 Estudando JS, HTML, CSS, ReactJS e ReactNative
 - 💬 Contate-me no email: eliseu.souza@mail.usf.edu.br (email da faculdade)
 - 😄 Ele 
 - ⚡ Sou uma bangunça em casa, e organizado no trabalho ( loucura 😂😂😂)
