@@ -4,7 +4,8 @@
 - 🌱 Estudando JS, HTML, CSS, ReactJS e ReactNative
 - 💬 Contate-me no email: eliseu.souza@mail.usf.edu.br (email da faculdade)
 - 😄 Ele 
-- ⚡ Sou uma bangunça em casa, e organizado no trabalho ( loucura 😂😂😂)
+- ⚡ Sou Observador, apaixonado por tecnologia e pelo mundo em minha volta
+     adoro viver no meu proprio universo. ( loucura 😂😂😂)
 
 <div align="center">
   <a href="https://github.com/EliseuZeu">
