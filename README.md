@@ -1,7 +1,7 @@
 ### Eu sou EliseuZeu
 
 - 🔭 Eu ainda não trabalho com fullstack, mas pretendo 
-- 🌱 Estudando JS, HTML, CSS, ReactJS
+- 🌱 Estudando JS, HTML, CSS, Java e Springboot
 - 💬 Contate-me no email: eliseu.souza@mail.usf.edu.br (email da faculdade)
 - 😄 Ele 
 - ⚡ Sou Observador, apaixonado por tecnologia e pelo mundo em minha volta
@@ -15,10 +15,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Zeu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Zeu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Zeu-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Spring/springboot-original.svg">
   <img align="center" alt="Zeu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Zeu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Zeu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+  <img align="center" alt="Zeu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </div>
+  
   
   ##
   
