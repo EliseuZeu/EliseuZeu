@@ -2,7 +2,7 @@
 
 - 🔭 Eu ainda não trabalho com fullstack, mas pretendo 
 - 🌱 Estudando JS, HTML, CSS, Java e Springboot
-- 💬 Contate-me no email: eliseu.souza@mail.usf.edu.br (email da faculdade)
+- 💬 Contate-me no email: eliseu.de1souza@gmail.com (email pessoal)
 - 😄 Ele 
 - ⚡ Sou Observador, apaixonado por tecnologia e pelo mundo em minha volta
      adoro viver no meu proprio universo. ( loucura 😂😂😂)
