@@ -105,7 +105,7 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
     title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/aws-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aws/aws-original.svg" 
 />
 <img 
     align="left" 
