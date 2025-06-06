@@ -89,7 +89,7 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/java-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
 />
 <img 
     align="left" 
